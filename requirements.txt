@@ -1,0 +1,9 @@
+openai-whisper
+ffmpeg-python
+sounddevice
+numpy
+groq
+python-telegram-bot==13.7
+pyttsx3
+psutil
+requests
